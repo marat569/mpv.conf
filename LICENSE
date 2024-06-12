@@ -1,0 +1,13 @@
+Below are the licenses for all software used:
+
+MPV [ https://github.com/mpv-player/mpv/tree/master ] [ https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL ]
+
+RAVU [ https://github.com/bjin/mpv-prescalers/tree/master ] [https://github.com/bjin/mpv-prescalers/blob/master/LICENSE]
+
+glsl-chroma-from-luma-prediction [ https://github.com/Artoriuz/glsl-chroma-from-luma-prediction ] [ https://github.com/Artoriuz/glsl-chroma-from-luma-prediction/blob/main/LICENSE ]
+
+mpv-sub-select [ https://github.com/CogentRedTester/mpv-sub-select ] [ https://github.com/CogentRedTester/mpv-sub-select/blob/master/LICENSE ]
+
+mpv-webm [ https://github.com/ekisu/mpv-webm ] [ https://github.com/ekisu/mpv-webm/blob/master/LICENSE ]
+
+mfpbar.lua [ https://codeberg.org/NRK/mpv-toolbox/src/branch/master/mfpbar/mfpbar.lua ] [ https://codeberg.org/NRK/mpv-toolbox/src/branch/master/LICENSE ]
