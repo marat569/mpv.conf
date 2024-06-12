@@ -5,4 +5,6 @@
 
 To install click Code -> download zip -> and extract everything to where your **mpv.exe** is
 
+**Please update your mpv atleast weekly!**
+
 All the licensces for software used can be found in the `LICENSCE` file
